@@ -1,0 +1,25 @@
+{
+    "coordinates": {
+        "company_id": {
+            "x1": 100,
+            "y1": 100,
+            "x2": 300,
+            "y2": 150
+        },
+        "docket_id": {
+            "x1": 400,
+            "y1": 100,
+            "x2": 600,
+            "y2": 150
+        }
+    },
+    "preprocessing_methods": [
+        "threshold",
+        "denoise",
+        "sharpen"
+    ],
+    "reference_page_size": {
+        "width": 2480,
+        "height": 3508
+    }
+}
