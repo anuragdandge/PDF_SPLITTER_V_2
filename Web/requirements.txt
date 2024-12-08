@@ -1,0 +1,10 @@
+PyMuPDF
+Pillow
+pytesseract
+opencv-python
+numpy
+pandas
+Flask
+Flask-SocketIO
+python-socketio
+Werkzeug
